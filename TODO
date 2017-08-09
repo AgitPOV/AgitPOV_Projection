@@ -1,3 +1,0 @@
-- Add a variable so that the kerning between the letters can change, preventing them 'bunching up' or having too much space between them. Make that value dependent on the size of the letter?
-- Fix the bug that shows the first letter of the second word up side down. Seems to be an issue with initilaising the angle value correctly.
-- When a new word is added to the file 'palabras.txt' on the server, show it on screen.  Where is the code that checks for new words, it is done on a timer?
